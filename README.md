@@ -1,2 +1,2 @@
 # WFSOverpowEr.github.io
-This is a social network
+This is a website on github.io
